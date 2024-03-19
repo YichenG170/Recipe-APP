@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">RecipeApplication</string>
+    <string-array name="singapore_locations">
+        <item>Default</item>
+        <item>Central</item>
+        <item>North</item>
+        <item>South</item>
+        <item>East</item>
+        <item>West</item>
+    </string-array>
+    <string-array name="visibility">
+        <item>Visible</item>
+        <item>Invisible</item>
+    </string-array>
+</resources>
